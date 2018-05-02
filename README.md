@@ -1,1 +1,1 @@
-# macro
+# R Package: macro
